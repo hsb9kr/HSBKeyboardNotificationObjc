@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HSBKeyboardNotificationObjc_Tests' do
+  pod 'HSBKeyboardNotificationObjc', :path => '../'
+  
+  
+end
