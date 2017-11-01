@@ -1,0 +1,6 @@
+framework module HSBKeyboardNotificationObjc {
+  umbrella header "HSBKeyboardNotificationObjc-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_HSBKeyboardNotificationObjc_Tests {
+  umbrella header "Pods-HSBKeyboardNotificationObjc_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
